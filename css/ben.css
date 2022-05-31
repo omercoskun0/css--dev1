@@ -1,0 +1,18 @@
+.text-red{
+    color: red;
+}
+.tihck{
+    font-style: italic;
+}
+.text-blue{
+    color:blue;
+}
+.fs{
+    font-style: italic;
+}
+.text-green{
+    color: green;
+}
+.list-style{
+list-style-position: inside;
+}
